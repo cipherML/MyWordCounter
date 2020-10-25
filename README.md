@@ -6,31 +6,39 @@
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/built%20with-Python3-red.svg" />
     </a>
-    <a href="https://github.com/cipherML?tab=projects">
+    <a href="https://github.com/cipherML">
     	<img src="https://img.shields.io/badge/Author-Mayur%20Pawar-lightgrey" />
     </a>
   </p>
   
- 
+## Table of contents
+- [Introduction](#introduction)
+  * [Demo: Module examples](#demo)  
+- [Clone](#clone)
+- [Features](#features)
+- [Run](#run)
+  * [Inout text](#run)
+  * [Pass text file](#run)
+
 ## Introduction
 **What is Word Counter?**
 
 Apart from counting words and characters, this program can help you to improve word choice and will tell you keyword density. To check word count, simply pass your text file or start typing if you want. You'll see the number of characters and words increase or decrease as you type, delete, and edit them. You can also copy and paste text from online.
 
-**Demo**
+#### **Demo**
 
 __Input Text:__
 
 Here, user need to type the text, paragraph, etc.. This feature will also help you to improve your typing skills.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73163292/97105702-f5f7a680-16e2-11eb-8e8f-6f893eb76c4e.png" width="1600">
+  <img src="https://user-images.githubusercontent.com/73163292/97105702-f5f7a680-16e2-11eb-8e8f-6f893eb76c4e.png" width="1700" height="138">
 </p>
 
 __Words Text file:__
 
 Here, user need to pass a text file with words or paragraph.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73163292/97105769-846c2800-16e3-11eb-8bf4-1f3b812081c8.png" width="1600">
+  <img src="https://user-images.githubusercontent.com/73163292/97105769-846c2800-16e3-11eb-8bf4-1f3b812081c8.png" width="1700" height="200">
 </p>
 
 ## **Clone**

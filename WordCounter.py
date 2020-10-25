@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar 6 2020
+
+"""
+
+
+# function to read text file
 def read_text_file(path):
     """
     :param path: text file path
@@ -7,6 +15,7 @@ def read_text_file(path):
     return f.read()
 
 
+# Word counter
 def word_count(string):
     """
     :param string: text file or input text's
@@ -14,7 +23,7 @@ def word_count(string):
     """
 
     counts = dict()
-    words = string.split()
+    words = string.lower().split()
 
     for word in words:
         if word in counts:
@@ -29,7 +38,7 @@ def word_count(string):
 def input_texts_count():
     while True:
         try:
-            string = input("Words: ")
+            string = input("\nWords: ")
             counts = word_count(string)
             print("counts: ", counts)
         except KeyboardInterrupt:

@@ -13,7 +13,7 @@
   
 ## Table of contents
 - [Introduction](#introduction)
-  * [Demo: Module examples](#demo)  
+  * [Demo: Module examples](#demo-run)  
 - [Clone](#clone)
 - [Features](#features)
 - [Run](#run)
@@ -25,13 +25,13 @@
 
 Apart from counting words and characters, this program can help you to improve word choice and will tell you keyword density. To check word count, simply pass your text file or start typing if you want. You'll see the number of characters and words increase or decrease as you type, delete, and edit them. You can also copy and paste text from online.
 
-#### **Demo**
+#### **Demo (:Run)**
 
 __Input Text:__
 
 Here, user need to type the text, paragraph, etc.. This feature will also help you to improve your typing skills.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73163292/97105702-f5f7a680-16e2-11eb-8e8f-6f893eb76c4e.png" width="1700" height="138">
+  <img src="https://user-images.githubusercontent.com/73163292/97105702-f5f7a680-16e2-11eb-8e8f-6f893eb76c4e.png">
 </p>
 
 __Words Text file:__
@@ -54,11 +54,11 @@ __Important:__
 **Python 3.6 or 3.7** is needed to run the toolbox.
 - IDE `Pycharm`
 
-### Features
+## Features
 - Total word count
 - Keyword density (number of repeated words)
 
-### Run
+## Run
 __NOTE:__ run following commands in `run.py`
 
 If you want to improve your typing skills with word counting feature
